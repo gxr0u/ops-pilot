@@ -161,6 +161,10 @@ This makes OpsPilot **cheaper, safer, and more predictable** than naive LLM-base
 ---
 ## 🙌 Acknowledgements
 
-Inspired by concepts from **Ed Donner’s LLM Engineering course**.
+This project was **inspired by architectural concepts** taught in  
+**Ed Donner’s LLM Engineering course**.
 
-Built with a focus on **open-source**, **local-first**, and **real-world LLM system design**.
+The **design, implementation, and system-level decisions** in OpsPilot
+(including orchestration logic, confidence gating, schema validation,
+and UI integration) are independently developed.
+
