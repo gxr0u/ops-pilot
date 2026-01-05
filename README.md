@@ -143,3 +143,24 @@ Create a `.env` file using `.env.example` as reference:
 
 ⚠️ Never commit your `.env` file.
 ---
+## 🧪 Design Philosophy
+
+- **LLMs are components, not the product**
+- Deterministic code handles validation, control flow, and confidence scoring
+- Strong models are used only when ambiguity or low confidence is detected
+- Outputs are strictly schema-validated before being consumed by the UI
+
+This makes OpsPilot **cheaper, safer, and more predictable** than naive LLM-based systems.
+---
+## 🛣️ Roadmap
+
+- Slack / Microsoft Teams bot integration
+- Retrieval-Augmented Generation (RAG) over internal documents
+- AI Code Reviewer module using the same core infrastructure
+- REST API for production deployments
+---
+## 🙌 Acknowledgements
+
+Inspired by concepts from **Ed Donner’s LLM Engineering course**.
+
+Built with a focus on **open-source**, **local-first**, and **real-world LLM system design**.
