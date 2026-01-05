@@ -1,0 +1,13 @@
+We discussed the Q3 launch timeline during the weekly sync.
+
+Engineering mentioned that backend APIs are mostly complete, but the frontend
+is behind schedule due to recent scope changes.
+
+Decision was made to delay the Q3 launch by one week to ensure stability.
+
+Aditya will follow up with the frontend team to reassess scope and timelines.
+
+A key risk was identified around dependency on the external analytics vendor,
+which could further impact the schedule.
+
+Open question: Do we need to cut non-critical features to meet the revised deadline?
