@@ -1,0 +1,23 @@
+{
+  "summary": "Decisions: delay Q3 launch by one week. Action items assigned to Aditya. Key risks include dependency on the external analytics vendor.",
+  "decisions": [
+    "delay Q3 launch by one week"
+  ],
+  "action_items": [
+    {
+      "task": "follow up with the frontend team to reassess scope and timelines",
+      "owner": "Aditya",
+      "priority": "HIGH"
+    }
+  ],
+  "risks": [
+    "dependency on the external analytics vendor"
+  ],
+  "assumptions": [
+    "backend APIs will be ready within the revised timeline"
+  ],
+  "open_questions": [
+    "Do we need to cut non-critical features to meet the revised deadline?"
+  ],
+  "confidence_score": 0.9
+}
